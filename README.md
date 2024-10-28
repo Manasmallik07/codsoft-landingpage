@@ -22,9 +22,9 @@ Welcome to the **Codsoft Landing Page** project! This is a fully responsive and 
 
 ## 📸 Preview
 
-(![Screenshot 2024-10-29 013013](https://github.com/user-attachments/assets/cf19d4cd-3b11-4b8b-9476-c4836076d109))
-(![Screenshot 2024-10-29 013046](https://github.com/user-attachments/assets/0b0d7359-2e80-41f0-b38a-c36a0eaa30f5))
-(![Screenshot 2024-10-29 013057](https://github.com/user-attachments/assets/00f39f9b-d36c-42c1-a130-471779dec699))
+![Screenshot 2024-10-29 013013](https://github.com/user-attachments/assets/cf19d4cd-3b11-4b8b-9476-c4836076d109)
+![Screenshot 2024-10-29 013046](https://github.com/user-attachments/assets/0b0d7359-2e80-41f0-b38a-c36a0eaa30f5)
+![Screenshot 2024-10-29 013057](https://github.com/user-attachments/assets/00f39f9b-d36c-42c1-a130-471779dec699)
 
 ## 🚀 Getting Started
 
